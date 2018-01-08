@@ -62,3 +62,5 @@ transformarParaMaisculaEMostrarNaTela(nome5) //samuel SAMUEL
 /*
   Agora, se quisermos modificar alguma coisa, só teremos que mexer nas linhas da função, ou seja, no maximo DUAS. FUCKING. LINHAS!
 */
+
+exports.transformarParaMaisculaEMostrarNaTela = transformarParaMaisculaEMostrarNaTela
